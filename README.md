@@ -4,6 +4,9 @@ Flixona is a sleek, responsive movie and TV show web interface
 It showcases a stylish carousel, sidebar navigation, and modern UI inspired by popular streaming platforms.
 
 ---
+## 💻  Made By
+ - Avish Chauhan 
+ - Divyanshi Chauhan 
 
 ## 🚀 Features
 
@@ -36,5 +39,5 @@ It showcases a stylish carousel, sidebar navigation, and modern UI inspired by p
 
 <img width="1918" height="508" alt="image" src="https://github.com/user-attachments/assets/7490d935-802f-43ec-b464-faf311dfcc7d" />
 
-(Made by Avish Chauhan and Divyanshi Chauhan)
+
 
